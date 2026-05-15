@@ -1,0 +1,24 @@
+# ── Data folders (experiment outputs, raw data) ───────────────────────────────
+KIST_*/
+RAW_DATA/
+backup/
+trial_on_error/
+
+# ── Large binary / checkpoint ─────────────────────────────────────────────────
+hrnet48_OCR_HMS_IF_checkpoint.pth
+
+# ── Logs, stats, generated plots ─────────────────────────────────────────────
+*.log
+*.txt
+*.csv
+py/*.png
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Editor / OS ───────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store

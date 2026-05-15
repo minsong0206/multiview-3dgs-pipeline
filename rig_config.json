@@ -1,0 +1,12 @@
+[
+  {
+    "cameras": [
+      { "image_prefix": "CAM_FRONT/", "ref_sensor": true },
+      { "image_prefix": "CAM_FRONT_LEFT/" },
+      { "image_prefix": "CAM_FRONT_RIGHT/" },
+      { "image_prefix": "CAM_BACK/" },
+      { "image_prefix": "CAM_BACK_LEFT/" },
+      { "image_prefix": "CAM_BACK_RIGHT/" }
+    ]
+  }
+]
