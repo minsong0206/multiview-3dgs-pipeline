@@ -8,6 +8,7 @@
 
 ## HUGSIM PIPELINE
 ## Hierarchical 3D Gaussian Representation
+## VistaDream
 ## Mesh Splatting
 ## Semantic Foam
 ## Radiant Foam
