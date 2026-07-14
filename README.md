@@ -2,6 +2,9 @@
 - Multi-View Camera Setting (6 action cameras)
 - Only using RGB image & GPS
 - Include Indoor dataset processing (private)
+- #### Main
+  - COLMAP PIPELINE
+  - Data Preprocessing for 3DGS
 
 ## HUGSIM PIPELINE
 ## Hierarchical 3D Gaussian Representation
